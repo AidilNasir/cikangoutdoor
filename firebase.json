@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cikangoutdoor-32cae",
+          "appId": "1:87650596272:android:326e65d30e8ca5ad7e1275",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cikangoutdoor-32cae",
+          "configurations": {
+            "android": "1:87650596272:android:326e65d30e8ca5ad7e1275",
+            "web": "1:87650596272:web:a3cd75dff3ea89dc7e1275"
+          }
+        }
+      }
+    }
+  }
+}

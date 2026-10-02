@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87650596272",
+    "project_id": "cikangoutdoor-32cae",
+    "storage_bucket": "cikangoutdoor-32cae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87650596272:android:326e65d30e8ca5ad7e1275",
+        "android_client_info": {
+          "package_name": "com.example.cikangoutdoor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASiMf9sRO7r8w7RBw1GPIrg-RGm8ZyXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
